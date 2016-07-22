@@ -1,0 +1,10 @@
+# Build and Automatically Generated Folders
+Library/
+Temp/
+Build/
+
+# Executables
+*.exe
+*.ipa
+*.apk
+
