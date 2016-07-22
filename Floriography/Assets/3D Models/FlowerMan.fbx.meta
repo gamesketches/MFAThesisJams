@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: 8d05eaf874c1a40c3822e562e1c8cfaf
+timeCreated: 1466893247
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group1
+    100004: group2
+    100006: group2 1
+    100008: pCone2
+    100010: pSphere1
+    100012: pSphere10
+    100014: pSphere11
+    100016: pSphere12
+    100018: pSphere13
+    100020: pSphere2
+    100022: pSphere3
+    100024: pSphere4
+    100026: pSphere5
+    100028: pSphere6
+    100030: pSphere7
+    100032: pSphere8
+    100034: pSphere9
+    100036: transform1
+    100038: transform10
+    100040: transform11
+    100042: transform12
+    100044: transform13
+    100046: transform14
+    100048: transform2
+    100050: transform3
+    100052: transform4
+    100054: transform5
+    100056: transform6
+    100058: transform7
+    100060: transform8
+    100062: transform9
+    400000: //RootNode
+    400002: group1
+    400004: group2
+    400006: group2 1
+    400008: pCone2
+    400010: pSphere1
+    400012: pSphere10
+    400014: pSphere11
+    400016: pSphere12
+    400018: pSphere13
+    400020: pSphere2
+    400022: pSphere3
+    400024: pSphere4
+    400026: pSphere5
+    400028: pSphere6
+    400030: pSphere7
+    400032: pSphere8
+    400034: pSphere9
+    400036: transform1
+    400038: transform10
+    400040: transform11
+    400042: transform12
+    400044: transform13
+    400046: transform14
+    400048: transform2
+    400050: transform3
+    400052: transform4
+    400054: transform5
+    400056: transform6
+    400058: transform7
+    400060: transform8
+    400062: transform9
+    2300000: group2
+    3300000: group2
+    4300000: group2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: '
+
+      Imported file ''FlowerMan'' conversion failed: Required human bone ''LeftLowerLeg''
+      not found
+
+
+'
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: group1
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: group2 1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pSphere4
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: transform11
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pSphere1
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pSphere2
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: transform10
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: FlowerMan(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group1
+      position: {x: 0.0067238975, y: 0.016058393, z: 0.00857519}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group2 1
+      position: {x: -0.0067238975, y: -0.016058393, z: -0.00857519}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCone2
+      position: {x: 0.0062229657, y: 0.022951357, z: 0.009418364}
+      rotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+      scale: {x: 0.9, y: 0.6, z: 0.9}
+      transformModified: 1
+    - name: transform1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere1
+      position: {x: 0.0087857805, y: 0.00918844, z: 0.0076880064}
+      rotation: {x: -0.044642586, y: 0.3390941, z: 0.1226545, w: 0.93165344}
+      scale: {x: 1, y: 2, z: 0.2}
+      transformModified: 1
+    - name: transform14
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere2
+      position: {x: 0.0041292696, y: 0.009416746, z: 0.0076880064}
+      rotation: {x: -0.044642586, y: -0.3390941, z: -0.1226545, w: 0.93165344}
+      scale: {x: 0.8, y: 2, z: 0.2}
+      transformModified: 1
+    - name: transform13
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere3
+      position: {x: 0.0065236446, y: 0.017416488, z: 0.0076880064}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.8, y: 1.8, z: 0.2}
+      transformModified: 1
+    - name: transform12
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere4
+      position: {x: 0.0024915235, y: 0.018918343, z: 0.0047899275}
+      rotation: {x: -0.7451674, y: 0.09616887, z: 0.37928724, w: 0.54001695}
+      scale: {x: 0.6, y: 1.8, z: 0.2}
+      transformModified: 1
+    - name: transform11
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere5
+      position: {x: 0.011056395, y: 0.01872166, z: 0.004545035}
+      rotation: {x: 0.5291797, y: -0.4267908, z: 0.15477167, w: 0.71684325}
+      scale: {x: 0.6, y: 1.8, z: 0.2}
+      transformModified: 1
+    - name: transform10
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere6
+      position: {x: 0.0063945707, y: 0.023023749, z: 0.00736665}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.2}
+      transformModified: 1
+    - name: transform9
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere7
+      position: {x: 0.007565407, y: 0.024083056, z: 0.0056965905}
+      rotation: {x: 0.63915884, y: -0.3166637, z: -0.051346462, w: 0.69897336}
+      scale: {x: 0.5, y: 1.2, z: 0.1}
+      transformModified: 1
+    - name: transform8
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere8
+      position: {x: 0.008613134, y: 0.022578275, z: 0.0063090795}
+      rotation: {x: -0.52290696, y: 0.6350572, z: 0.30919752, w: -0.47714522}
+      scale: {x: 0.5, y: 1.2, z: 0.1}
+      transformModified: 1
+    - name: transform7
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere9
+      position: {x: 0.0052298508, y: 0.024277806, z: 0.0056965905}
+      rotation: {x: 0.668828, y: 0.20779437, z: 0.17104737, w: 0.69298875}
+      scale: {x: 0.5, y: 1.2, z: 0.1}
+      transformModified: 1
+    - name: transform6
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere10
+      position: {x: 0.0043070433, y: 0.023018839, z: 0.0056965905}
+      rotation: {x: 0.5644755, y: 0.48765817, z: 0.40743783, w: 0.52683145}
+      scale: {x: 0.5, y: 1.2, z: 0.1}
+      transformModified: 1
+    - name: transform5
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere11
+      position: {x: 0.0049437345, y: 0.021661608, z: 0.0056965905}
+      rotation: {x: 0.36018288, y: 0.6548503, z: 0.5957402, w: 0.2941649}
+      scale: {x: 0.5, y: 1.2, z: 0.1}
+      transformModified: 1
+    - name: transform4
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere12
+      position: {x: 0.00630426, y: 0.021219287, z: 0.0057513597}
+      rotation: {x: 0.05810987, y: 0.74730325, z: 0.6615534, w: -0.022543417}
+      scale: {x: 0.5, y: 1.2, z: 0.1}
+      transformModified: 1
+    - name: transform3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pSphere13
+      position: {x: 0.0078002685, y: 0.02161096, z: 0.0057513597}
+      rotation: {x: -0.07317677, y: 0.7492893, z: 0.6380652, w: -0.16150403}
+      scale: {x: 0.5, y: 1.2, z: 0.1}
+      transformModified: 1
+    - name: transform2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group2
+      position: {x: 0.00631104, y: 0.016551455, z: 0.007490672}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
